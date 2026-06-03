@@ -131,4 +131,4 @@ Most cloud providers now offer managed Kubernetes services:
 
 ## Summary
 
-Kubernetes simplifies the management of large-scale containerized applications by providing automation, scalability, reliability, and operational efficiency.
+Kubernetes simplifies the management of large-scale containerized applications by providing automation, scalability, reliability, and operationall efficiency.
