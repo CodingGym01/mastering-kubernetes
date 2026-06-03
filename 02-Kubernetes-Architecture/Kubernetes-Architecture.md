@@ -222,4 +222,4 @@ Container Runtime
 Pod
 ```
 
-Understanding this flow is essential for learning Kubernetes.
+Understanding this flow is essential for learning Kubernetes
